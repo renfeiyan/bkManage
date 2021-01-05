@@ -10,7 +10,7 @@
     "mock-serve": "node mock/index.js | vue-cli-service serve"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "codemirror": "^5.47.0",
     "echarts": "^4.2.1",
     "el-tree-transfer": "^2.2.0",
