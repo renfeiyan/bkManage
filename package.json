@@ -15,7 +15,7 @@
     "echarts": "^4.2.1",
     "el-tree-transfer": "^2.2.0",
     "element-ui": "^2.10.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "js-base64": "^2.5.1",
     "js-cookie": "^2.2.0",
